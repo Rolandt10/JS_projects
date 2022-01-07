@@ -9,6 +9,6 @@ Simple projects for practicing HTML, CSS and JavaScript.
 
 ![The San Juan Mountains are beautiful!](https://github.com/Rolandt10/JS_projects/blob/master/readme_imgs/blurry_loading.PNG)
 
-## [Blurry Loading](https://cocky-jang-5037e4.netlify.app/)
+## [Progress Steps](https://cocky-jang-5037e4.netlify.app/)
 
 ![The San Juan Mountains are beautiful!](https://github.com/Rolandt10/JS_projects/blob/master/readme_imgs/progress_steps.PNG)
