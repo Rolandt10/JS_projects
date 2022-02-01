@@ -24,7 +24,7 @@ function showMovies(movies) {
         movieElement.innerHTML = `
         <img src="${IMG_PATH + poster_path}" alt="${title}">
         <div class="movie-info">
-            <h3>${title}</h3>
+            <h3 class="${getClassByTitleLength(title)}">${title}</h3>
             <span class="${getClassByRate(vote_average)}">${vote_average}</span>
         </div>
         <div class="overview">
@@ -33,6 +33,14 @@ function showMovies(movies) {
         </div>`;
     main.appendChild(movieElement);
     });
+}
+
+function getClassByTitleLength(title) {
+    if (title.length >= 23) {
+        return "long-title-size";
+    } else {
+        return "short-title-size";
+    }
 }
 
 function getClassByRate(vote) {

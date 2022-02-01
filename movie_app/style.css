@@ -43,10 +43,13 @@ header {
 
 main {
     display: flex;
+    align-items: center;
+    justify-content: center;
     flex-wrap: wrap;
 }
 
 .movie {
+    height: 38.1rem;
     width: 21.7rem;
     margin: 1rem;
     background: var(--secondary-color);
@@ -57,10 +60,12 @@ main {
 }
 
 .movie img {
+    height: 31.8rem;
     width: 100%;
 }
 
 .movie-info {
+    height: 4rem;
     color: #eee;
     display: flex;
     align-items: center;
@@ -71,6 +76,7 @@ main {
 
 .movie-info h3 {
     margin-top: 0;
+    margin-right: 0.3rem;
 }
 
 .movie-info span {
@@ -104,6 +110,15 @@ main {
     transition: transform 0.4s ease-in;
 }
 
-.movie:hover .overview, .movie:active .overview {
+.movie:hover .overview, 
+.movie:active .overview {
     transform: translateY(0);
+}
+
+.long-title-size {
+    font-size: 1rem;
+}
+
+.short-title-size {
+    font-size: 1.4rem;
 }
