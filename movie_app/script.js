@@ -18,12 +18,14 @@ async function getMovies(url) {
 getMovies(API_URL + page);
 
 function nextPage() {
+    window.scrollTo(0, 0);
     page++;
     getMovies(API_URL + page);
 }
 
 function previousPage() {
     if (page > 1) {
+        window.scrollTo(0, 0);
         page--;
     }
     getMovies(API_URL + page);
