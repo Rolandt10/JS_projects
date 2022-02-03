@@ -16,3 +16,11 @@ Simple projects for practicing HTML, CSS and JavaScript.
 ## [Dad Jokes](https://optimistic-liskov-a426fb.netlify.app/)
 
 ![](https://github.com/Rolandt10/JS_projects/blob/master/readme_imgs/dad_jokes.PNG)
+
+## [Background Slider](https://relaxed-jones-387e1f.netlify.app)
+
+![](https://github.com/Rolandt10/JS_projects/blob/master/readme_imgs/background_slider.PNG)
+
+## [Background Slider](https://eager-dubinsky-ac9aa3.netlify.app)
+
+![](https://github.com/Rolandt10/JS_projects/blob/master/readme_imgs/movie_app.PNG)
