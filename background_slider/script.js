@@ -18,6 +18,17 @@ rightBtn.addEventListener("click", () => {
     setActiveSlide();
 });
 
+leftBtn.addEventListener("click", () => {
+    activeSlide--;
+
+    if (activeSlide < 0) {
+        activeSlide = slides.length - 1;
+    }
+
+    setBgToBody();
+    setActiveSlide();
+});
+
 function setBgToBody() {
     body.style.backgroundImage = slides[activeSlide].style.backgroundImage;
 }
