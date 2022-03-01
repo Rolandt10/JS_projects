@@ -27,7 +27,7 @@ Simple projects for practicing HTML, CSS and JavaScript.
 
 ## [Rotating navigation](https://suspicious-haibt-78acb5.netlify.app)
 
-![](https://github.com/Rolandt10/JS_projects/blob/master/readme_imgs/rotating_naigation.PNG)
+![](https://github.com/Rolandt10/JS_projects/blob/master/readme_imgs/rotating_navigation.PNG)
 
 ## [Form wave navigation](https://youthful-hodgkin-341ef7.netlify.app)
 
