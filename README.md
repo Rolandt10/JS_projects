@@ -21,6 +21,12 @@ Simple projects for practicing HTML, CSS and JavaScript.
 
 ![](https://github.com/Rolandt10/JS_projects/blob/master/readme_imgs/background_slider.PNG)
 
-## [Background Slider](https://eager-dubinsky-ac9aa3.netlify.app)
+## [Movie app](https://eager-dubinsky-ac9aa3.netlify.app)
 
 ![](https://github.com/Rolandt10/JS_projects/blob/master/readme_imgs/movie_app.PNG)
+
+## [Rotating navigation](https://suspicious-haibt-78acb5.netlify.app)
+
+## [Form wave navigation](https://youthful-hodgkin-341ef7.netlify.app)
+
+## [Split landing page](https://inspiring-hypatia-63639d.netlify.app)
